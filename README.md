@@ -1,16 +1,43 @@
-### Hi there 👋
+# Garnet3106 (がーねっと)
 
-<!--
-**Garnet3106/Garnet3106** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+This page is written in [Baze language](https://github.com/Garnet3106/bazelinga) ...
 
-Here are some ideas to get you started:
+## About
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Halo! Mi es Garnet3106, がーねっと.
+
+Ke mi linga es...?
+
+## SNS
+
+- GitHub ... [Garnet3106](https://github.com/Garnet3106)
+- Twitter ... [@Garnet3106](https://twitter.com/Garnet3106)
+- Discord ... がーねっと#9502
+
+## Details
+
+### Linga Glup
+
+- HTML, CSS
+- JavaScript ... Native, Node.js, jQuery
+- C++, C#, PHP
+<br>
+<br>
+- Nihong linga
+- Ingla linga
+- Zyonguo linga
+- Esperanto
+- [Baze](https://github.com/Garnet3106/bazelinga)
+
+### Projects
+
+- [Chestnut](https://github.com/Garnet3106/chestnut) ... Programming Language
+- [Baze](https://github.com/Garnet3106/bazelinga) ... Artificial language & Discord BOT
+<br>
+<br>
+- [Emoji BOT](https://github.com/Garnet3106/emoji-bot) ... Discord BOT for emojis
+- [Alarmo BOT](https://github.com/Garnet3106/alarmo-bot) ... Discord BOT for EEW
+
+### Leen Plak
+
+- N高等学校
