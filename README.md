@@ -16,25 +16,24 @@ Ke mi linga es...?
 
 ## Details
 
-### Linga Glup
+### Linga
 
-- HTML, CSS
-- JavaScript ... Native, Node.js, jQuery
-- C++, C#, PHP
-<br>
-<br>
 - Nihong linga
 - Ingla linga
 - Zyonguo linga
 - Esperanto
 - [Baze](https://github.com/Garnet3106/bazelinga)
 
+### Ploglam Linga
+
+- HTML, CSS
+- JavaScript ... Native, Node.js, jQuery
+- C++, C#, PHP
+
 ### Projects
 
 - [Chestnut](https://github.com/Garnet3106/chestnut) ... Programming Language
 - [Baze](https://github.com/Garnet3106/bazelinga) ... Artificial language & Discord BOT
-<br>
-<br>
 - [Emoji BOT](https://github.com/Garnet3106/emoji-bot) ... Discord BOT for emojis
 - [Alarmo BOT](https://github.com/Garnet3106/alarmo-bot) ... Discord BOT for EEW
 
