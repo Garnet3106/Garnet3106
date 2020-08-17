@@ -2,9 +2,9 @@
 
 This page is written in [Baze language](https://github.com/Garnet3106/bazelinga) ...
 
-## About
+## Plinsipal Palt
 
-Halo! Mi es Garnet3106, がーねっと.
+Halo! Mi es Garnet3106 (がーねっと).
 
 Ke mi linga es...?
 
@@ -12,9 +12,9 @@ Ke mi linga es...?
 
 - GitHub ... [Garnet3106](https://github.com/Garnet3106)
 - Twitter ... [@Garnet3106](https://twitter.com/Garnet3106)
-- Discord ... がーねっと#9502
+- Discord ... [がーねっと#9502](https://discord.com/)
 
-## Details
+## Mali Palt
 
 ### Linga
 
@@ -30,12 +30,12 @@ Ke mi linga es...?
 - JavaScript ... Native, Node.js, jQuery
 - C++, C#, PHP
 
-### Projects
+### Plojekt
 
-- [Chestnut](https://github.com/Garnet3106/chestnut) ... Programming Language
-- [Baze](https://github.com/Garnet3106/bazelinga) ... Artificial language & Discord BOT
-- [Emoji BOT](https://github.com/Garnet3106/emoji-bot) ... Discord BOT for emojis
-- [Alarmo BOT](https://github.com/Garnet3106/alarmo-bot) ... Discord BOT for EEW
+- [Chestnut](https://github.com/Garnet3106/chestnut) ... Ploglam linga
+- [Baze](https://github.com/Garnet3106/bazelinga) ... Altif linga & Discord BOT
+- [Emoji BOT](https://github.com/Garnet3106/emoji-bot) ... Discord BOT tel emozyi
+- [Alarmo BOT](https://github.com/Garnet3106/alarmo-bot) ... Discord BOT tel EEW
 
 ### Leen Plak
 
