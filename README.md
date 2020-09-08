@@ -1,5 +1,7 @@
 # Garnet3106 (がーねっと)
 
+[![](https://raw.githubusercontent.com/Garnet3106/Garnet3106/master/profile-summary-card-output/monokai/1-repos-per-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
+
 This page is written in [Baze language](https://github.com/Garnet3106/bazelinga) ...
 
 ## Plinsipal Palt
