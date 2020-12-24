@@ -4,7 +4,7 @@
 
 This page is written in [Baze language](https://github.com/Garnet3106/bazelinga) ...
 
-## Plinsipal Palt
+## Prinsipar Part
 
 Haro! Mi es Garnet3106 (がーねっと).
 
@@ -39,6 +39,6 @@ Mi dik baze-ring.
 - [Emoji BOT](https://github.com/Garnet3106/emoji-bot) ... Discord BOT tel emozyi
 - [Alarmo BOT](https://github.com/Garnet3106/alarmo-bot) ... Discord BOT tel EEW
 
-### Leen Plak
+### Stud-Prak
 
 - N高等学校
