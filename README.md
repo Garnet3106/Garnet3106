@@ -6,9 +6,9 @@ This page is written in [Baze language](https://github.com/Garnet3106/bazelinga)
 
 ## Plinsipal Palt
 
-Halo! Mi es Garnet3106 (がーねっと).
+Haro! Mi es Garnet3106 (がーねっと).
 
-Ke mi linga es...?
+Mi dik baze-ring.
 
 ## SNS
 
@@ -16,26 +16,26 @@ Ke mi linga es...?
 - Twitter ... [@Garnet3106](https://twitter.com/Garnet3106)
 - Discord ... [がーねっと#9502](https://discord.com/)
 
-## Mali Palt
+## Pit Part
 
-### Linga
+### Ring
 
-- Nihong linga
-- Ingla linga
-- Zyonguo linga
+- Nihong-Ring
+- Ingra-Ring
+- Zyongo-Ring
 - Esperanto
-- [Baze](https://github.com/Garnet3106/bazelinga)
+- [Baze-Ring](https://github.com/Garnet3106/bazelinga)
 
-### Ploglam Linga
+### Program-Ring
 
 - HTML, CSS
 - JavaScript ... Native, Node.js, jQuery
 - C++, C#, PHP
 
-### Plojekt
+### Projekt
 
 - [Chestnut](https://github.com/Garnet3106/chestnut) ... Ploglam linga
-- [Baze](https://github.com/Garnet3106/bazelinga) ... Altif linga & Discord BOT
+- [Baze-Ring](https://github.com/Garnet3106/bazelinga) ... Altif linga & Discord BOT
 - [Emoji BOT](https://github.com/Garnet3106/emoji-bot) ... Discord BOT tel emozyi
 - [Alarmo BOT](https://github.com/Garnet3106/alarmo-bot) ... Discord BOT tel EEW
 
