@@ -22,3 +22,23 @@
 ```
 
     
+
+---
+
+![](./2-most-commit-language.svg)
+
+```
+![](https://raw.githubusercontent.com/Garnet3106/Garnet3106/master/profile-summary-card-output/dracula/2-most-commit-language.svg)
+```
+
+    
+
+---
+
+![](./4-productive-time.svg)
+
+```
+![](https://raw.githubusercontent.com/Garnet3106/Garnet3106/master/profile-summary-card-output/dracula/4-productive-time.svg)
+```
+
+    

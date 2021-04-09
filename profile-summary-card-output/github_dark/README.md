@@ -22,3 +22,23 @@
 ```
 
     
+
+---
+
+![](./2-most-commit-language.svg)
+
+```
+![](https://raw.githubusercontent.com/Garnet3106/Garnet3106/master/profile-summary-card-output/github_dark/2-most-commit-language.svg)
+```
+
+    
+
+---
+
+![](./4-productive-time.svg)
+
+```
+![](https://raw.githubusercontent.com/Garnet3106/Garnet3106/master/profile-summary-card-output/github_dark/4-productive-time.svg)
+```
+
+    
