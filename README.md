@@ -1,9 +1,7 @@
-<script src="https://kit.fontawesome.com/2eaa701ebc.js" crossorigin="anonymous"></script>
-
 # Garnet3106 - がーねっと
 
 **Let's visit my portfolio!**
-**\>\>\> [garnet3106.works](garnet3106.works)**
+**\>\>\> [garnet.works](https://garnet.works)**
 
 [![](https://raw.githubusercontent.com/Garnet3106/Garnet3106/master/profile-summary-card-output/monokai/1-repos-per-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
 
@@ -15,7 +13,7 @@
 |📅 Birth Date|Jan. 15th, 2004|
 |🏫 High School|N High School|
 |🏫 University|iU (now)|
-|💻 Jobs|React Native Dev.|
+|💻 Jobs|Mobile App with React Native|
 |💗 Hobby|Computer, EDM, DJ, Touhou|
 
 ## Skills
@@ -53,7 +51,7 @@
 
 ## SNS / Contacts
 
-- <i class="fa-brands fa-github"></i> [Garnet3106](https://github.com/Garnet3106)
-- <i class="fa-brands fa-twitter"></i> [@Garnet3106](https://twitter.com/Garnet3106)
-- <i class="fa-brands fa-discord"></i> [がーねっと#9502](https://discord.com/)
-- <i class="fa-solid fa-envelope"></i> [<contact@garnet3106.works>](<mailto:contact@garnet3106.works>)
+- Twitter / [Garnet3106](https://github.com/Garnet3106)
+- GitHub / [@Garnet3106](https://twitter.com/Garnet3106)
+- Discord / [がーねっと#9502](https://discord.com/)
+- Email / [<contact@garnet3106.works>](<mailto:contact@garnet.works>)
